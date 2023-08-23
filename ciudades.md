@@ -5,3 +5,5 @@
 3. Hell's Kitchen
 4. Billao
 5. Bogota
+6. Londres
+7. Berlin
