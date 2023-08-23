@@ -8,3 +8,7 @@
 * Iron Man
 * Venezuela Man
 * Peruvian GOD
+* SerThanos
+* DarioNPC
+* Luisinho
+
