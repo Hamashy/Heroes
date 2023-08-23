@@ -11,4 +11,5 @@
 * SerThanos
 * DarioNPC
 * Luisinho
+* Alan Turing
 
