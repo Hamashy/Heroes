@@ -5,3 +5,6 @@
 * Daredevil
 * Aquaman
 * Mujer Maravilla
+* Iron Man
+* Venezuela Man
+* Peruvian GOD
