@@ -12,4 +12,5 @@
 * DarioNPC
 * Luisinho
 * Alan Turing
+* Goku
 
