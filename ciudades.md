@@ -7,3 +7,4 @@
 5. Bogota
 6. Londres
 7. Berlin
+8. Cartagena
