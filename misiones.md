@@ -7,3 +7,4 @@
 5. jugar Valorant
 6. Ir a Comprar pan
 7. Ir a sine
+8. Mision Decodificar SGM
