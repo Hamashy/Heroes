@@ -6,4 +6,6 @@
 4. Pagar recibos
 5. jugar Valorant
 6. Ir a Comprar pan
+7. comprar kumis
+8. escuchar musica 
 
